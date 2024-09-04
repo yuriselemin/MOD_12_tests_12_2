@@ -1,4 +1,6 @@
 
+# Домашнее задание по теме "Методы Юнит-тестирования"
+
 class Runner:
     def __init__(self, name, speed=5):
         self.name = name
